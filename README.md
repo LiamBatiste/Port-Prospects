@@ -2,6 +2,8 @@
 An analytical approach to identifying potential opportunities for marketing Wärtsilä’s advanced propulsion solutions tailored towards defence, tankers and cargo vessels through market segmentation. 
 These vessel types have been chosen as they are the target market often sought out by Wärtsilä.
 
+![image](https://github.com/user-attachments/assets/6790fd62-48ca-4745-b6e5-3519e8a6a418)
+
 
 ### Areas for Potential Enhancement:
 
