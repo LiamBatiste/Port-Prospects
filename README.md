@@ -4,6 +4,8 @@ Further bolstered by identifying target ports of interest.
 
 ![image](https://github.com/user-attachments/assets/ac95e433-561d-4dd5-9fd6-14b16555860e)
 
+### Visuals - Python
+
 
 ### Areas for Potential Enhancement:
 
