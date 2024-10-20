@@ -56,3 +56,6 @@ Analysing potential customers based on the identified vessel data (e.g., governm
 
 **Integration of External Data:**  
 If feasible, I should consider integrating external datasets, such as industry reports or economic indicators, to enrich your analysis and support your findings.
+
+**Direct querying data that updates live Vessel Data**
+The use of direct querying along with scehdules refreshes for data that updates in real time such as vessel positions or status may also futher enrich the data and oppotunities for analysis.
