@@ -1,15 +1,15 @@
-# Port-Prospects
+# Port Prospects
 An analytical approach to identifying potential opportunities for marketing Wärtsilä’s advanced propulsion solutions tailored towards defence, tankers and cargo vessels through market segmentation. 
 Further bolstered by identifying target ports of interest. 
 
-### Kaggle dataset 
+# Kaggle Dataset 
 ![image](https://github.com/user-attachments/assets/8d9f0f12-9a24-4afa-afc7-062859b1be46)
 
-### schema and normalisation
+# Schema and Normalisation
 ![image](https://github.com/user-attachments/assets/ac95e433-561d-4dd5-9fd6-14b16555860e)
 
-### Visuals - Python
-#### Port Segmentation
+# Visuals - Python
+## Port Segmentation
 ![f d hport dvessels](https://github.com/user-attachments/assets/36684e4d-b488-434e-8c58-ad7fdc7959ea)
 
 ![f d hport fvessels](https://github.com/user-attachments/assets/05d1fea9-1216-4e87-b974-4771fac0f495)
@@ -26,7 +26,7 @@ Further bolstered by identifying target ports of interest.
 
 ![avg build year dport fvessels](https://github.com/user-attachments/assets/dcf4e9db-4d0e-4b6d-ae7d-f113072c7c26)
 
-#### Engine Segmentation
+## Engine Segmentation
 ![dvessel avg mco tonnage below wartsila](https://github.com/user-attachments/assets/e7020c70-4cda-4921-8503-d7b2462e6b2b)
 
 ![fvessel avg mco tonnage below wartsila](https://github.com/user-attachments/assets/c4e70fe1-4d69-4183-98a2-d234520cd24d)
