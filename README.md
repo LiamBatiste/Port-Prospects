@@ -1,13 +1,48 @@
 # Port Prospects
-An analytical approach to identifying potential opportunities for marketing Wärtsilä’s advanced propulsion solutions tailored towards defence, tankers and cargo vessels through market segmentation. 
-Further bolstered by identifying target ports of interest. 
+An analytical approach to identifying potential opportunities for marketing Wärtsilä’s advanced propulsion solutions tailored towards defence, tankers and cargo vessels through market segmentation, further bolstered by identifying target ports of interest. 
 
 This approach focuses on leveraging Wärtsilä's unique strengths in propulsion technology, including fuel efficiency and decarbonisation, to identify vessels that would benefit most from these solutions.
 
 The vessel segmentation was selected because both freighter and defense vessel types are consistently highlighted as vessels of interest on their website. This approach also enables a more granular analysis, providing more targeted leads for other Wärtsilä stakeholders to follow up on regarding their efforts and resource allocation.
 
 # Kaggle Dataset 
+The Initial open source dataset was chosen from Kaggle and contains data relating to ships transiting the Kattegat Strait between January 1st and March 10th, 2022.
+
+The data card was as follows:
+
+Static Information :
+
+The ship's IMO number
+The ship's MMSI number
+The ship's Call Sign
+The ship's name
+The ship's type
+What type of destination this message was received from (like Class A / Class B)
+Width of ship
+Length of ship
+Draft of ship
+Type of GPS device
+Length from GPS to bow (Length A)
+Length from GPS to stern (Size B)
+Length from GPS to starboard (Size C)
+Length from GPS to port side (Dimension D)
+Dynamic Data:
+
+Time information (31/12/2015 in 23:59:59 format)
+Latitude
+Longitude
+Navigational status (For example: 'Fishing', Anchored, etc.)
+Rate of Turn (ROT)
+Speed Over Ground (SOG)
+Course Over Ground (COG)
+Heading
+Type of cargo
+Port of Destination
+Estimated Time of Arrival (ETA)
+Data source type, eg. AIS
+
 ![image](https://github.com/user-attachments/assets/8d9f0f12-9a24-4afa-afc7-062859b1be46)
+
 
 # Schema and Normalisation
 ![image](https://github.com/user-attachments/assets/ac95e433-561d-4dd5-9fd6-14b16555860e)
