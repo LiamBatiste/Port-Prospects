@@ -68,6 +68,7 @@ Snippet of Synthetic Dataset:
 
 _It should be noted that the synthetic dataset did not contain missing values, duplicates, or other typical data quality issues, and therefore is not fully representative of a real-world dataset prior to data cleansing_
 # Data Normalisation and Schema
+Note to self: The normalisation of data using Power Query, along with the addition of data to dimension columns, is beneficial. Transitioning from a flat file to a star schema will be particularly useful when scaling up to accommodate data ingestion at scale.
 
 ![image](https://github.com/user-attachments/assets/ac95e433-561d-4dd5-9fd6-14b16555860e)
 
