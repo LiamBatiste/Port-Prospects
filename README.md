@@ -67,7 +67,7 @@ Snippet of Synthetic Dataset:
 ![image](https://github.com/user-attachments/assets/de02e130-609b-4665-89eb-a8a27aa936b8)
 
 _It should be noted that the synthetic dataset did not contain missing values, duplicates, or other typical data quality issues, and therefore is not fully representative of a real-world dataset prior to data cleansing_
-#Data Normalisation and Schema
+# Data Normalisation and Schema
 
 ![image](https://github.com/user-attachments/assets/ac95e433-561d-4dd5-9fd6-14b16555860e)
 
