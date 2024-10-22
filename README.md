@@ -10,7 +10,7 @@ The Initial open source dataset was chosen from Kaggle and contains data relatin
 
 The data card was as follows:
 
-Static Information :
+**Static Information :**
 - The ship's IMO number
 - The ship's MMSI number
 - The ship's Call Sign
@@ -26,7 +26,7 @@ Static Information :
 - Length from GPS to starboard (Size C)
 - Length from GPS to port side (Dimension D)
 
-Dynamic Data:
+**Dynamic Data:**
 - Time information (31/12/2015 in 23:59:59 format)
 - Latitude
 - Longitude
