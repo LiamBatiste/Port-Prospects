@@ -3,7 +3,7 @@ An analytical approach to identifying potential opportunities for marketing Wär
 
 This approach focuses on leveraging Wärtsilä's unique strengths in propulsion technology, including fuel efficiency and decarbonisation, to identify vessels that would benefit most from these solutions.
 
-The vessel segmentation was selected because both freighter and defense vessel types are consistently highlighted as vessels of interest on their website. This approach also enables a more granular analysis, providing more targeted leads for other Wärtsilä stakeholders to follow up on regarding their efforts and resource allocation.
+The vessel segmentation was selected because both freighter and defense vessel types are consistently highlighted as vessels of interest on their website. This approach also enables a more granular analysis, providing more targeted leads for other Wärtsilä stakeholders to follow up on regarding their efforts and resource allocation. Addiotnally, given that upgrading the account subscription was extremely costly, it was decided that the data already extracted (approximately 1000 records) would be used to create a larger synthetic dataset using [Mostly AI](https://mostly.ai/) to replicate a 'larger' dataset (see snippet below).
 
 # Kaggle Dataset 
 The Initial <a href="https://www.kaggle.com/datasets/eminserkanerdonmez/ais-dataset/data" target="_blank">open source dataset</a> was chosen from Kaggle and contains data relating to ships transiting the Kattegat Strait between January 1st and March 10th, 2022.
