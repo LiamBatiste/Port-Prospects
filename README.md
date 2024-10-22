@@ -49,7 +49,7 @@ To enrich the Kaggle data set, additional data was aquired using the [Datalastic
 
 The main endpoints allowed for data to be called pertaining to [the Vessel Specs and Vessel Engine](https://datalastic.com/api-reference/).
 
-This method of data aquisition was working as expected up until the account making the API requests hit the monthly call limit of 20,000. 
+This method of data aquisition was working as expected up until the account making the API requests hit the monthly call limit of 20,000 extremely quickly as I ran the programme multiples times due to performing the API call for different parameters in parallel using the ThreadPoolExecutor Class built into Python. 
 
 # Schema and Normalisation
 ![image](https://github.com/user-attachments/assets/ac95e433-561d-4dd5-9fd6-14b16555860e)
