@@ -44,7 +44,7 @@ The data set was streamlined by reducing the number of columns, optimising SQL q
 ![image](https://github.com/user-attachments/assets/8d9f0f12-9a24-4afa-afc7-062859b1be46)
 
 # Data Aquisition
-To enrich the Kaggle data set
+To enrich the Kaggle data set, additional data was aquired using the ['Datalastic API'](https://datalastic.com/)
 
 # Schema and Normalisation
 ![image](https://github.com/user-attachments/assets/ac95e433-561d-4dd5-9fd6-14b16555860e)
