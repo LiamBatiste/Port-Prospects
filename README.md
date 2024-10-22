@@ -61,6 +61,8 @@ Therefore, given that API limit was reached (and upgrading the account subscript
 <br>
 **- Enabling more reliable vessel segmentation.**
 
+Snippet of Synthetic Dataset:
+
 ![image](https://github.com/user-attachments/assets/ac95e433-561d-4dd5-9fd6-14b16555860e)
 
 # Visuals - Python
