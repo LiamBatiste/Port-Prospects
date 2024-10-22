@@ -58,6 +58,7 @@ Therefore, given that API limit was reached (and upgrading the account subscript
 **- Improving statistical power**
 <br>
 **- Uncovering more representative patterns**
+<br>
 **- Enabling more reliable vessel segmentation.**
 
 ![image](https://github.com/user-attachments/assets/ac95e433-561d-4dd5-9fd6-14b16555860e)
