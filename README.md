@@ -51,7 +51,7 @@ _'All in one vessel API. Access historical and real-time AIS data about ships, c
 
 The main endpoints allowed for data to be called pertaining to [the Vessel Specs and Vessel Engine](https://datalastic.com/api-reference/).
 
-"This method of data acquisition was functioning as expected until the account making the API requests reached the monthly call limit of 20,000. This occurred due to earlier testing conducted to ensure the Python script was working as intended, along with the program performing API calls for different parameters in parallel using Python's built-in ThreadPoolExecutor class.
+This method of data acquisition was functioning as expected until the account making the API requests reached the monthly call limit of 20,000. This occurred due to earlier testing conducted to ensure the Python script was working as intended, along with the program performing API calls for different parameters in parallel using Python's built-in ThreadPoolExecutor class.
 
 # Schema and Normalisation
 ![image](https://github.com/user-attachments/assets/ac95e433-561d-4dd5-9fd6-14b16555860e)
