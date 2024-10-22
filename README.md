@@ -62,6 +62,10 @@ Therefore, given that API limit was reached (and upgrading the account subscript
 **- Enabling more reliable vessel segmentation.**
 
 Snippet of Synthetic Dataset:
+![image](https://github.com/user-attachments/assets/f57d5ccb-a8b6-4bb2-a282-fb012b21065a)
+
+_t should be noted that the synthetic dataset did not contain missing values, duplicates, or other typical data quality issues, and therefore is not fully representative of a real-world dataset prior to data cleansing_
+#Data Normalisation and Schema
 
 ![image](https://github.com/user-attachments/assets/ac95e433-561d-4dd5-9fd6-14b16555860e)
 
