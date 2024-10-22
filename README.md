@@ -6,7 +6,7 @@ This approach focuses on leveraging Wärtsilä's unique strengths in propulsion 
 The vessel segmentation was selected because both freighter and defense vessel types are consistently highlighted as vessels of interest on their website. This approach also enables a more granular analysis, providing more targeted leads for other Wärtsilä stakeholders to follow up on regarding their efforts and resource allocation.
 
 # Kaggle Dataset 
-The Initial open source dataset was chosen from Kaggle and contains data relating to ships transiting the Kattegat Strait between January 1st and March 10th, 2022.
+The Initial open source dataset [https://www.kaggle.com/datasets/eminserkanerdonmez/ais-dataset/data] was chosen from Kaggle and contains data relating to ships transiting the Kattegat Strait between January 1st and March 10th, 2022.
 
 The data card was as follows:
 
@@ -44,7 +44,7 @@ The data set was streamlined by reducing the number of columns, optimising SQL q
 ![image](https://github.com/user-attachments/assets/8d9f0f12-9a24-4afa-afc7-062859b1be46)
 
 # Data Aquisition
-
+To enrich the Kaggle data set
 
 # Schema and Normalisation
 ![image](https://github.com/user-attachments/assets/ac95e433-561d-4dd5-9fd6-14b16555860e)
