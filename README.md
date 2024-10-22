@@ -1,5 +1,7 @@
 # Port Prospects
 An analytical approach to identifying potential opportunities for marketing Wärtsilä’s advanced propulsion solutions tailored towards defence, tankers and cargo vessels through market segmentation, further bolstered by identifying target ports of interest. 
+![image](https://github.com/user-attachments/assets/89ff50bc-46ca-4c2e-be78-15536cef7e68)
+
 
 This approach focuses on leveraging Wärtsilä's unique strengths in propulsion technology, including fuel efficiency and decarbonisation, to identify vessels that would benefit most from these solutions.
 
