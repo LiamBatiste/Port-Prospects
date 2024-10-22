@@ -12,7 +12,7 @@ The data card was as follows:
 
 Static Information :
 
-The ship's IMO number
+*The ship's IMO number
 The ship's MMSI number
 The ship's Call Sign
 The ship's name
