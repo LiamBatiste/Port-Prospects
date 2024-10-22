@@ -61,7 +61,7 @@ Therefore, given that API limit was reached (and upgrading the account subscript
 <br>
 **- Enabling more reliable vessel segmentation.**
 
-Additionally, some feature columns were created to further enrich the data such as 'mco/tonnage'  (MCO (Maximum Continuous Output) to tonnage ratio) as it could be used as a good indicator of both engine efficiency (particularly for freighters due to the cargo load impact).
+Additionally, some feature columns were created to further enrich the data such as **'mco/tonnage'  (MCO (Maximum Continuous Output) to tonnage ratio)** as it could be used as a good indicator of both engine efficiency (particularly for freighters due to the cargo load impact).
 
 Snippet of Synthetic Dataset:
 ![image](https://github.com/user-attachments/assets/de02e130-609b-4665-89eb-a8a27aa936b8)
