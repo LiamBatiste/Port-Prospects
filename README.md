@@ -55,9 +55,9 @@ This method of data acquisition was functioning as expected until the account ma
 
 Therefore, given that API limit was reached (and upgrading the account subscription making the API calls would be very expensive) after acquring aproximately 1,000 complete records, it was decided that this data would be used to prompt the creation of a larger 10,000 record synthetic data set using [Mostly AI](https://mostly.ai/). This decision was made to enhance the dataset's size, thereby:
 
-**- Improving statistical power
-- Uncovering more representative patterns,
-- Enabling more reliable vessel segmentation.**
+**- Improving statistical power**
+**- Uncovering more representative patterns**
+**- Enabling more reliable vessel segmentation.**
 
 ![image](https://github.com/user-attachments/assets/ac95e433-561d-4dd5-9fd6-14b16555860e)
 
