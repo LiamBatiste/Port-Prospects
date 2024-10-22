@@ -47,7 +47,9 @@ The data set was streamlined by reducing the number of columns, optimising SQL q
 # Data Aquisition
 To enrich the Kaggle data set, additional data was aquired using the [Datalastic API](https://datalastic.com/) as it allows for _'All in one vessel API. Access historical and real-time AIS data about ships, cargo vessels, fishing boats, cruise liners, and more.'_
 
-The main endpoints allowed for data to be called pertaining to [the Vessel Specs and Vessel Engine](https://datalastic.com/api-reference/)
+The main endpoints allowed for data to be called pertaining to [the Vessel Specs and Vessel Engine](https://datalastic.com/api-reference/).
+
+This method of data aquisition was working as expected up until the account making the API requests hit the monthly call limit of 20,000. 
 
 # Schema and Normalisation
 ![image](https://github.com/user-attachments/assets/ac95e433-561d-4dd5-9fd6-14b16555860e)
