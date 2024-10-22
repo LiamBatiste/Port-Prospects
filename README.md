@@ -39,7 +39,8 @@ The data card was as follows:
 - Port of Destination
 - Estimated Time of Arrival (ETA)
 - Data source type, eg. AIS
-
+  
+The data was reduced to 
 ![image](https://github.com/user-attachments/assets/8d9f0f12-9a24-4afa-afc7-062859b1be46)
 
 
