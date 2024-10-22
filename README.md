@@ -2,6 +2,9 @@
 An analytical approach to identifying potential opportunities for marketing Wärtsilä’s advanced propulsion solutions tailored towards defence, tankers and cargo vessels through market segmentation. 
 Further bolstered by identifying target ports of interest. 
 
+This vessel segmentation was selected because both freighter and defense vessel types are consistently highlighted as vessels of interest on their website. 
+This approach also enables a more granular analysis, providing more targeted leads for other Wärtsilä stakeholders to follow up on regarding their efforts and resource allocation.
+
 # Kaggle Dataset 
 ![image](https://github.com/user-attachments/assets/8d9f0f12-9a24-4afa-afc7-062859b1be46)
 
