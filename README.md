@@ -53,7 +53,11 @@ The main endpoints allowed for data retrieval related to [the Vessel Specs and V
 
 This method of data acquisition was functioning as expected until the account making the API requests reached the monthly call limit of 20,000. This occurred due to earlier testing conducted to ensure the Python script was working as intended, along with the program performing API calls for different parameters in parallel using Python's built-in ThreadPoolExecutor class. 
 
-Therefore, given that API limit was reached (and upgrading the account subscription making the API calls would be very expensive) after acquring aproximately 1,000 complete records, it was decided that this data would be used to prompt the creation of a larger 10,000 record synthetic data set using [Mostly AI](https://mostly.ai/). This decision was made to enhance the dataset's size, thereby improving statistical power, uncovering more representative patterns, and enabling more reliable vessel segmentation.
+Therefore, given that API limit was reached (and upgrading the account subscription making the API calls would be very expensive) after acquring aproximately 1,000 complete records, it was decided that this data would be used to prompt the creation of a larger 10,000 record synthetic data set using [Mostly AI](https://mostly.ai/). This decision was made to enhance the dataset's size, thereby:
+
+- Improving statistical power
+- Uncovering more representative patterns,
+- Enabling more reliable vessel segmentation.
 
 ![image](https://github.com/user-attachments/assets/ac95e433-561d-4dd5-9fd6-14b16555860e)
 
