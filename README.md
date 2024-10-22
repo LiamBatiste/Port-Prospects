@@ -40,9 +40,7 @@ The data card was as follows:
 - Estimated Time of Arrival (ETA)
 - Data source type, eg. AIS
 
-
-
-  
+<br>
 The data set was streamlined by reducing the number of columns, optimising SQL query performance and improving the efficiency of subsequent analyses **(see snippet below).**
 ![image](https://github.com/user-attachments/assets/8d9f0f12-9a24-4afa-afc7-062859b1be46)
 
