@@ -7,6 +7,7 @@ This approach focuses on leveraging Wärtsilä's unique strengths in propulsion 
 
 The vessel segmentation was selected because both freighter and defense vessel types are consistently highlighted as vessels of interest on their website. This approach also enables a more granular analysis, providing more targeted leads for other Wärtsilä stakeholders to follow up on regarding their efforts and resource allocation. 
 
+# Table of Contents
 - [Section Title](#section-title)
 
 
@@ -211,7 +212,7 @@ The matrix above shows the percentage distribution of propulsion types across di
 The matrix above shows the percentage distribution of propulsion types across different countries for defense vessels. This insight could help identify which propulsion types should be prioritised for upselling engines in each country.
 <br></br>
 
-## Project Areas for Potential Enhancement:
+# Project Areas for Potential Enhancement:
 
 **Enriching 'Decarbonisation' measures** 
 Given my limited knowledge in the domain of vessel engines, I decided it would be worth while to consult with an **Environmental Expert (Director of Millpool Environmental Consulting Ltd)** on how to better enrich/improve the accuracy of my data, particularly with respect to how I could better measure 'decarbonisation'. From this conversation, the key take aways were as follows:
@@ -232,5 +233,5 @@ Beyond just identifying the lowest performers, it could be beneficial to evaluat
 **Direct querying data that updates live Vessel Data**
 The use of direct querying along with scehdules refreshes (through Power BI) for data that updates in real time such as vessel positions or status may also futher diversify the data and opportunities for analysis. 
 
-## Next Steps 
+# Next Steps 
 Following this analysis, to maximise impact, it would be beneficial to create a high-level dashboard that less technical stakeholders can interact with dynamically. This would allow them to quickly and easily gain insights into potential future sales leads.
