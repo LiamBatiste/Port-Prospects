@@ -214,7 +214,7 @@ Given my limited knowledge in the domain of vessel engines, I decided it would b
 
 - Use of the term 'decarbonisation' as a measure is not strictly correct. Instead it broadly refers to the reduction or elimination of greenhouse gas emissions.
 - The majority of said green house emissions are created by standard diesel engines.
-- It would be more useful and correct to measure the vessels produced particulates by their carbon emissions per kilowatt-hour.
+- It would be more useful and correct to measure the vessels produced particulates, namely their carbon emissions per kilowatt-hour.
 - The ability to switch between fuel and electric power is a valuable USP for Wärtsilä, as it offers companies potential cost savings. With a Wärtsilä engine, vessels can switch to a more fuel- and cost-efficient power source when idle or waiting to dock.
 
 **No demonstration of data cleansing**
