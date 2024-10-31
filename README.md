@@ -100,7 +100,10 @@ Views to allow for segmentation of defense vessels and freighter vessels were cr
 <br>
 
 ## Queries
+The Queries that were chosen were broken up into two key areas: 
 
+**1.) Port Segmentation of defense and freighter vessels 
+2.) Engine Segmenation of defense and freighter vessels**
 
 
 # Visuals - Python
