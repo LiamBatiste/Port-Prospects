@@ -176,7 +176,7 @@ _It should be noted that the names and engine builder are very unrealistic of a 
 <br></br>
 
 ![fvessel avg mco tonnage below wartsila](https://github.com/user-attachments/assets/c4e70fe1-4d69-4183-98a2-d234520cd24d)
-The visual above highlights freighter vessels equipped with engines that have a maximum continuous output lower than that of Wärtsilä engines. This can be valuable for identifying both the specific engine designations and engine builders that fall on the lower end of this performance metric, thereby presenting potential sales opportunities for Wärtsilä’s engines. It can be observed that the  engines might be of interest to pursue.
+The visual above highlights freighter vessels equipped with engines that have a maximum continuous output lower than that of Wärtsilä engines. This can be valuable for identifying both the specific engine designations and engine builders that fall on the lower end of this performance metric, thereby presenting potential sales opportunities for Wärtsilä’s engines. It can be observed that the Sulzer and MTU engines as well as the engine builder Sulzer might be of interest to pursue.
 
 _It should be noted that the names and engine builder are very unrealistic of a real world data set_
 <br></br>
