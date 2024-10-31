@@ -137,28 +137,32 @@ To visualise these queries, Jupyter Notebooks were chosen as they allow for crea
 The below visualisations were created using both the seaborn and matplotlib libraries:
 
 ![f d hport dvessels](https://github.com/user-attachments/assets/36684e4d-b488-434e-8c58-ad7fdc7959ea)
-The above visual is focused on the homeports with the lowest average decarbonisation and fuel efficiency for defense vessels. This can provide Wärtsilä with leads for the home ports of **defense specific vessels** that are likely to have engines with lower decarbonisation and fuel efficiency potential when compared with that of Wärtsilä engine averages.  
+The above visual is focused on the home ports with the lowest average decarbonisation and fuel efficiency for defense vessels. This can provide Wärtsilä with leads for the home ports of **defense specific vessels** that are likely to have engines with lower decarbonisation and fuel efficiency potential when compared with that of Wärtsilä engine averages.  
 <br>
 
 ![f d hport fvessels](https://github.com/user-attachments/assets/05d1fea9-1216-4e87-b974-4771fac0f495)
-The above visual is focused on the homeports with the lowest average decarbonisation and fuel efficiency for freighter vessels. This can provide Wärtsilä with leads for the home ports of **freighter specific vessels** that are likely to have engines with lower decarbonisation and fuel efficiency potential when compared with that of Wärtsilä engine averages.  
+The above visual is focused on the home ports with the lowest average decarbonisation and fuel efficiency for freighter vessels. This can provide Wärtsilä with leads for the home ports of **freighter specific vessels** that are likely to have engines with lower decarbonisation and fuel efficiency potential when compared with that of Wärtsilä engine averages.  
 <br>
 
 ![avg build year hport dvessels](https://github.com/user-attachments/assets/e645d47e-5332-4fdb-8227-02d3a2a7c4e5)
-The above visual is focused on the homeports with the oldest average build year for defense vessels. This can provide Wärtsilä with leads for the home ports of **defense specific vessels** that have a higher likelihood of being outdated and so in need of an upgrade to an engine that more closely aligns with the proposed goal of net zero emissions proposed by the International Maritime Organisation (IMO) by or around 2050. It should also be noted that the ports are further categorised by propulsion types for greater granularity. 
+The above visual is focused on the home ports with the oldest average build year for defense vessels. This can provide Wärtsilä with leads for the home ports of **defense specific vessels** that have a higher likelihood of being outdated and so in need of an upgrade to an engine that more closely aligns with the proposed goal of net zero emissions proposed by the International Maritime Organisation (IMO) by or around 2050. It should also be noted that the ports are further categorised by propulsion types for greater granularity. 
 <br>
 
 ![avg build year hport fvessels](https://github.com/user-attachments/assets/7983a0de-1538-4968-a58a-9399870e4aca)
-The above visual is focused on the homeports with the oldest average build year for freighter vessels. This can provide Wärtsilä with leads for the home ports of **freighter specific vessels** that have a higher likelihood of being outdated and so in need of an upgrade to an engine that more closely aligns with the proposed goal of net zero emissions proposed by the International Maritime Organisation (IMO) by or around 2050. It should also be noted that the ports are further categorised by propulsion types for greater granularity. 
+The above visual is focused on the home ports with the oldest average build year for freighter vessels. This can provide Wärtsilä with leads for the home ports of **freighter specific vessels** that have a higher likelihood of being outdated and so in need of an upgrade to an engine that more closely aligns with the proposed goal of net zero emissions proposed by the International Maritime Organisation (IMO) by or around 2050. It should also be noted that the ports are further categorised by propulsion types for greater granularity. 
 <br>
 
 ![f d dport dvessels](https://github.com/user-attachments/assets/9685ad96-c933-42f4-83dd-5ae54119e07a)
-The above visual is focused on the homeports with the oldest average build year for freighter vessels. This can provide Wärtsilä with leads for the home ports of **freighter specific vessels** that have a higher likelihood of being outdated and so in need of an upgrade to an engine that more closely aligns with the proposed goal of net zero emissions proposed by the International Maritime Organisation (IMO) by or around 2050. It should also be noted that the ports are further categorised by propulsion types for greater granularity. 
+The above visual is focused on the destination ports with the lowest average decarbonisation and fuel efficiency for defense vessels. This can provide Wärtsilä with leads for the destination ports of **defense specific vessels** that are likely to have engines with lower decarbonisation and fuel efficiency potential when compared with that of Wärtsilä engine averages. 
 <br>
 
 ![f d dport fvessels](https://github.com/user-attachments/assets/7b58a423-4bc2-42df-b7f0-9c04e121da04)
+The above visual is focused on the destination ports with the lowest average decarbonisation and fuel efficiency for freighter vessels. This can provide Wärtsilä with leads for the destination ports of **freighter specific vessels** that are likely to have engines with lower decarbonisation and fuel efficiency potential when compared with that of Wärtsilä engine averages. 
+<br>
 
 ![avg build year dport dvessels](https://github.com/user-attachments/assets/d6866c2e-6008-40ba-b836-741d88de9e71)
+The above visual is focused on the destination ports with the oldest average build year for defense vessels. This can provide Wärtsilä with leads for the destination ports of **defense specific vessels** that have a higher likelihood of being outdated and so in need of an upgrade to an engine that more closely aligns with the proposed goal of net zero emissions proposed by the International Maritime Organisation (IMO) by or around 2050. It should also be noted that the ports are further categorised by propulsion types for greater granularity. 
+<br>
 
 ![avg build year dport fvessels](https://github.com/user-attachments/assets/dcf4e9db-4d0e-4b6d-ae7d-f113072c7c26)
 
