@@ -72,11 +72,12 @@ _It should be noted that the synthetic dataset did not contain missing values, d
 Given that the data set was currently in a flatfile format. It was decided performing data normlisation would be beneficial for both query speeds by creating a star schema, especially if the data was to be scaled upwards through continuous data ingestion (as querying speeds may otherwise suffer).
 
 Further to this, adddiional columns were added to dimension tables such as the **country name** for the **countries table**, a **fuel and decarbonisation efficiency** rating (1 through 5 as part of a likert scale) for the **engines table** and **description of the propulsion type** utilised by vessels in the **proulsion types table.**
+![image](https://github.com/user-attachments/assets/ac95e433-561d-4dd5-9fd6-14b16555860e)
 
 These changes were made to enrich the data and allow for a deeper level of analysis with respect to the engine efficiency (or lack of for that matter) and therefore where to focus efforts when identifying potential opportunities for marketing Wärtsilä’s advanced propulsion solutions. 
 
 It should also be mentioned that the fuel efficiency and decarbonisation efficiency were calculated a product of both the engine builder and engine designation. 
-![image](https://github.com/user-attachments/assets/ac95e433-561d-4dd5-9fd6-14b16555860e)
+
 
 # Visuals - Python
 ## Port Segmentation
