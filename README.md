@@ -8,7 +8,16 @@ This approach focuses on leveraging Wärtsilä's unique strengths in propulsion 
 The vessel segmentation was selected because both freighter and defense vessel types are consistently highlighted as vessels of interest on their website. This approach also enables a more granular analysis, providing more targeted leads for other Wärtsilä stakeholders to follow up on regarding their efforts and resource allocation. 
 
 # Table of Contents
-- [Section Title](#section-title)
+- [Port Prospects](#port-prospects)
+- [Kaggle Dataset](#kaggle-dataset)
+- [Data Acquisition](#data-acquisition)
+- [Data Normalisation and Schema](#data-normalisation-and-schema)
+- [SQL Insights](#sql-insights)
+- [Views](#views)
+- [Queries](#queries)
+- [Visuals - Python](#visuals---python)
+- [Project Areas for Potential Enhancement](#project-areas-for-potential-enhancement)
+- [Next Steps](#next-steps)
 
 
 # Kaggle Dataset 
