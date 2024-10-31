@@ -6,6 +6,10 @@
 This approach focuses on leveraging Wärtsilä's unique strengths in propulsion technology, including fuel efficiency and decarbonisation, to identify vessels that would benefit most from these solutions.
 
 The vessel segmentation was selected because both freighter and defense vessel types are consistently highlighted as vessels of interest on their website. This approach also enables a more granular analysis, providing more targeted leads for other Wärtsilä stakeholders to follow up on regarding their efforts and resource allocation. 
+
+- [Section Title](#section-title)
+
+
 # Kaggle Dataset 
 The Initial <a href="https://www.kaggle.com/datasets/eminserkanerdonmez/ais-dataset/data" target="_blank">open source dataset</a> was chosen from Kaggle and contains data relating to ships transiting the Kattegat Strait between January 1st and March 10th, 2022.
 
