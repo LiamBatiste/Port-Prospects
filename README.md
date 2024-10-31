@@ -69,7 +69,9 @@ Snippet of Synthetic flatfile Dataset:
 
 _It should be noted that the synthetic dataset did not contain missing values, duplicates, or other typical data quality issues, and therefore is not fully representative of a real-world dataset prior to data cleansing_
 # Data Normalisation and Schema
-Given that the data set was currently in a flatfile format. It was decided perfroming data normlisation would be beneficial for both query speeds by creating a star schema, especiaally if the data was to be scaled upwards through data ingestion at scale. 
+Given that the data set was currently in a flatfile format. It was decided performing data normlisation would be beneficial for both query speeds by creating a star schema, especially if the data was to be scaled upwards through continuous data ingestion (as querying speeds may otherwise suffer).
+
+Further to this, adddiional columns were added to dimension tables such as the 
 
 ![image](https://github.com/user-attachments/assets/ac95e433-561d-4dd5-9fd6-14b16555860e)
 
