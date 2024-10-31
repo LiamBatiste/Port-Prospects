@@ -108,6 +108,25 @@ The Queries that were chosen were broken up into two key areas:
 
 The following questions were then proposed to gain insight into key areas of interest such as:
 
+**Port Segmenation:**
+
+- Which home ports are being visited by defense vessels with the lowest fuel efficiency and decarbonisation efficiency?
+- Which home ports are being visited by freighter vessels with the lowest fuel efficiency and decarbonisation efficiency?
+- Which home ports have the oldest average build years for defense vessels by propulsion type?
+- Which home ports have the oldest average build years for freighter vessels by propulsion type?
+- Which home ports have the lowest average fuel efficiency for defense vessels for each propulsion type?
+- Which home ports have the lowest average fuel efficiency for freighter vessels for each propulsion type?
+- Which home ports have the lowest average decarbonisation efficiency for defense vessels for each propulsion type?
+- Which home ports have the lowest average decarbonisation efficiency for freighter vessels for each propulsion type?
+- Which destination ports are being visited by defense vessels with the lowest fuel efficiency and decarbonisation efficiency?
+- Which destination ports are being visited by freighter vessels with the lowest fuel efficiency and decarbonisation efficiency?
+- Which destination ports have the oldest average build years for defense vessels by propulsion type?
+- Which destination ports have the oldest average build years for freighter vessels by propulsion type?
+- Which destination ports have the lowest average fuel efficiency for defense vessels for each propulsion type?
+- Which destination ports have the lowest average fuel efficiency for freighter vessels for each propulsion type?
+- Which destination ports have the lowest average decarbonisation efficiency for defense vessels for each propulsion type?
+- Which destination ports have the lowest average decarbonisation efficiency for freighter vessels for each propulsion type?
+
 
 
 # Visuals - Python
