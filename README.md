@@ -78,6 +78,16 @@ These changes were made to enrich the data and allow for a deeper level of analy
 
 It should also be mentioned that the fuel efficiency and decarbonisation efficiency were calculated a product of both the engine builder and engine designation. 
 
+# SQL Insights 
+
+The fact table and dimensions tables (as seen above) were created within SQL, along with their respective relationships. The data was then brought in using the SQL import wizard. 
+
+## views 
+Views to allow for segmentation of defense vessels and freighter vessels were created as they appear to be key segments of interest for Wärtsilä:
+****
+![image](https://github.com/user-attachments/assets/dbe8942c-8400-4ac6-9a1a-cad1809d78bc)
+
+
 # Visuals - Python
 ## Port Segmentation
 ![f d hport dvessels](https://github.com/user-attachments/assets/36684e4d-b488-434e-8c58-ad7fdc7959ea)
