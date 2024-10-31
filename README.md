@@ -75,7 +75,7 @@ Further to this, adddiional columns were added to dimension tables such as the *
 
 These changes were made to enrich the data and allow for a deeper level of analysis with respect to the engine efficiency (or lack of for that matter) and therefore where to focus efforts when identifying potential opportunities for marketing Wärtsilä’s advanced propulsion solutions. 
 
-It should also be mentioned that the fuel efficiency and decarbonisation efficiency were calculated a product of both the engine builder and engine 
+It should also be mentioned that the fuel efficiency and decarbonisation efficiency were calculated a product of both the engine builder and engine designation. 
 ![image](https://github.com/user-attachments/assets/ac95e433-561d-4dd5-9fd6-14b16555860e)
 
 # Visuals - Python
