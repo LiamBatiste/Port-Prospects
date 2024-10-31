@@ -122,7 +122,7 @@ The following questions were then proposed to gain insight into key areas of int
 **Engine Segmentation:**
 
 -  Which defense and freighter vessel engines have the lowest average fuel efficiency and decarbonisation efficiency?
--  Which defense and freighter vessel engines have average mco_per_tonnage lower than that of Wartsilas engine averages?
+-  Which defense and freighter vessel engines have average maximum continous output per tonnage lower than that of Wärtsilä engine averages?
 -  What are the top 5 defense and freighter vessel engines that may have been in service for longest?
 -  Which propulsion types have the lowest average fuel efficiency for defense and freighter vessels?
 -  Which propulsion types have the lowest average decarbonisation efficiency for defense and freighter vessels?
