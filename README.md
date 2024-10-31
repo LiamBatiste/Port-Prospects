@@ -86,6 +86,7 @@ The fact table and dimensions tables (as seen above) were created within SQL, al
 Views to allow for segmentation of defense vessels and freighter vessels were created as they appear to be key segments of interest for Wärtsilä:
 
 <br>
+
 **Defense Vessel View**
 
 ![image](https://github.com/user-attachments/assets/dbe8942c-8400-4ac6-9a1a-cad1809d78bc)
