@@ -88,7 +88,7 @@ Views to allow for segmentation of defense vessels and freighter vessels were cr
 **Defense Vessel View**
 ![image](https://github.com/user-attachments/assets/dbe8942c-8400-4ac6-9a1a-cad1809d78bc)
 
-<br>
+<br></br>
 
 **Freighter Vessel View**
 ![image](https://github.com/user-attachments/assets/3b75de43-51b2-46fe-b782-73d77c587c19)
