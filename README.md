@@ -182,9 +182,10 @@ _It should be noted that the names and engine builder are very unrealistic of a 
 <br></br>
 
 ![dvessel engines possible longest service](https://github.com/user-attachments/assets/331005fa-0e12-4974-b6b1-434200bd291f)
-The above visual provides insight into the 
+The above visual provides insight into the engine designations of defense vessels that have potentially been in service for the longest duration. When also coupled with the engine builder, this information could provide future business prospects for Wärtsilä. 
 
 ![fvessel engines possible longest service](https://github.com/user-attachments/assets/933ae10e-90b7-44a4-a76a-456ed2dfcc99)
+The above visual provides insight into the engine designations of freighter vessels that have potentially been in service for the longest duration. When also coupled with the engine builder, this information could provide future business prospects for Wärtsilä. 
 
 ![dvessel prop type avg f d](https://github.com/user-attachments/assets/06c91f83-6e1a-41e0-9778-2fd94e1dbd61)
 
