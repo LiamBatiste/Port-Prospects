@@ -132,14 +132,9 @@ The following questions were then proposed to gain insight into key areas of int
 # Visuals - Python
 ## Port Segmentation
 
-To visualise these queries, Jupyter Notebooks were chosen as they allow for creating straightforward visuals that effectively convey patterns and trends. The queries were executed using from sqlalchemy and then 
+To visualise these queries, Jupyter Notebooks were chosen as they allow for creating straightforward visuals that effectively convey patterns and trends. The queries were executed using from sqlalchemy and then brought in as a dataframe using pandas. This then allowed the most 'suitable' visualisation for the dataframe to be chosen and to confirm the data being brought in was correct. 
 
-import pandas as pd
-
-import seaborn as sns
-
-import matplotlib.pyplot as plt
-
+The below visualisations were created using both the seaborn and matplotlib libraries:
 
 ![f d hport dvessels](https://github.com/user-attachments/assets/36684e4d-b488-434e-8c58-ad7fdc7959ea)
 
