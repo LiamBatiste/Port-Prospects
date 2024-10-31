@@ -132,7 +132,8 @@ The following questions were then proposed to gain insight into key areas of int
 # Visuals - Python
 ## Port Segmentation
 
-****
+To then visualise the queries, it was decide that using jupyter notebooks would allow for the most simple visuals to be created for the 
+
 ![f d hport dvessels](https://github.com/user-attachments/assets/36684e4d-b488-434e-8c58-ad7fdc7959ea)
 
 ![f d hport fvessels](https://github.com/user-attachments/assets/05d1fea9-1216-4e87-b974-4771fac0f495)
