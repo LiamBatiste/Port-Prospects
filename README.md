@@ -99,6 +99,9 @@ Views to allow for segmentation of defense vessels and freighter vessels were cr
 
 <br>
 
+## Queries
+
+
 
 # Visuals - Python
 ## Port Segmentation
