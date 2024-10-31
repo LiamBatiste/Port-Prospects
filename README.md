@@ -137,15 +137,15 @@ To visualise these queries, Jupyter Notebooks were chosen as they allow for crea
 The below visualisations were created using both the seaborn and matplotlib libraries:
 
 ![f d hport dvessels](https://github.com/user-attachments/assets/36684e4d-b488-434e-8c58-ad7fdc7959ea)
-The above visual is focused on the homeports with the lowest average decarbonisation and fuel efficiency. This can provide Wärtsilä with leads for the home ports of **defense specific vessels** that are likely to have engines with lower decarbonisation and fuel efficiency potential when compared with that of Wärtsilä engine averages.  
+The above visual is focused on the homeports with the lowest average decarbonisation and fuel efficiency for defense vessels. This can provide Wärtsilä with leads for the home ports of **defense specific vessels** that are likely to have engines with lower decarbonisation and fuel efficiency potential when compared with that of Wärtsilä engine averages.  
 <br>
 
 ![f d hport fvessels](https://github.com/user-attachments/assets/05d1fea9-1216-4e87-b974-4771fac0f495)
-The above visual is focused on the homeports with the lowest average decarbonisation and fuel efficiency. This can provide Wärtsilä with leads for the home ports of **freighter specific vessels** that are likely to have engines with lower decarbonisation and fuel efficiency potential when compared with that of Wärtsilä engine averages.  
+The above visual is focused on the homeports with the lowest average decarbonisation and fuel efficiency for freighter vessels. This can provide Wärtsilä with leads for the home ports of **freighter specific vessels** that are likely to have engines with lower decarbonisation and fuel efficiency potential when compared with that of Wärtsilä engine averages.  
 <br>
 
 ![avg build year hport dvessels](https://github.com/user-attachments/assets/e645d47e-5332-4fdb-8227-02d3a2a7c4e5)
-The above visual is focused on the homeports with the lowest average decarbonisation and fuel efficiency. This can provide Wärtsilä with leads for the home ports of defense specific vessels that are likely to have engines with lower decarbonisation and fuel efficiency potential when compared with that of Wärtsilä engine averages.  
+The above visual is focused on the homeports with the oldest average build year for defense vessels. This can provide Wärtsilä with leads for the home ports of defense specific vessels that are likely to have engines with lower decarbonisation and fuel efficiency potential when compared with that of Wärtsilä engine averages.  
 <br>
 
 ![avg build year hport fvessels](https://github.com/user-attachments/assets/7983a0de-1538-4968-a58a-9399870e4aca)
