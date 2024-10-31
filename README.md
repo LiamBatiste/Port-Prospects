@@ -207,7 +207,7 @@ The matrix above shows the percentage distribution of propulsion types across di
 The matrix above shows the percentage distribution of propulsion types across different countries for defense vessels. This insight could help identify which propulsion types should be prioritised for upselling engines in each country.
 <br></br>
 
-### Areas for Potential Enhancement:
+## Areas for Potential Enhancement:
 
 **Operational Efficiency Analysis:**  
 Beyond just identifying the lowest performers, it could be beneficial to evaluate operational metrics such as fuel efficiency, maintenance costs, and lifecycle costs for different engine types. This can help articulate the value proposition of Wärtsilä's solutions more effectively.
