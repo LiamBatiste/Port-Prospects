@@ -145,14 +145,15 @@ The above visual is focused on the homeports with the lowest average decarbonisa
 <br>
 
 ![avg build year hport dvessels](https://github.com/user-attachments/assets/e645d47e-5332-4fdb-8227-02d3a2a7c4e5)
-The above visual is focused on the homeports with the oldest average build year for defense vessels. This can provide Wärtsilä with leads for the home ports of **defense specific vessels** that have a higher likelihood of being outdated and so in need of an upgrade to an engine that more closely aligns with the proposed goal of net zero emissions proposed by the International MaritimeOrganisation (IMO) by or around 2050. 
+The above visual is focused on the homeports with the oldest average build year for defense vessels. This can provide Wärtsilä with leads for the home ports of **defense specific vessels** that have a higher likelihood of being outdated and so in need of an upgrade to an engine that more closely aligns with the proposed goal of net zero emissions proposed by the International Maritime Organisation (IMO) by or around 2050. It should also be noted that the ports are further categorised by propulsion types for greater granularity. 
 <br>
 
 ![avg build year hport fvessels](https://github.com/user-attachments/assets/7983a0de-1538-4968-a58a-9399870e4aca)
-The above visual is focused on the homeports with the oldest average build year for freighter vessels. This can provide Wärtsilä with leads for the home ports of **freighter specific vessels** that have a higher likelihood of being outdated and so in need of an upgrade to an engine that more closely aligns with the proposed goal of net zero emissions proposed by the International MaritimeOrganisation (IMO) by or around 2050. 
+The above visual is focused on the homeports with the oldest average build year for freighter vessels. This can provide Wärtsilä with leads for the home ports of **freighter specific vessels** that have a higher likelihood of being outdated and so in need of an upgrade to an engine that more closely aligns with the proposed goal of net zero emissions proposed by the International Maritime Organisation (IMO) by or around 2050. It should also be noted that the ports are further categorised by propulsion types for greater granularity. 
 <br>
 
 ![f d dport dvessels](https://github.com/user-attachments/assets/9685ad96-c933-42f4-83dd-5ae54119e07a)
+
 
 ![f d dport fvessels](https://github.com/user-attachments/assets/7b58a423-4bc2-42df-b7f0-9c04e121da04)
 
