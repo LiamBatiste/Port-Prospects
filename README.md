@@ -222,6 +222,7 @@ The matrix above shows the percentage distribution of propulsion types across di
 # Project Areas for Potential Enhancement:
 
 **Enriching 'Decarbonisation' measures** 
+
 Given my limited knowledge in the domain of vessel engines, I decided it would be worth while to consult with an **Environmental Expert (Director of Millpool Environmental Consulting Ltd)** on how to better enrich/improve the accuracy of my data, particularly with respect to how I could better measure 'decarbonisation'. From this conversation, the key take aways were as follows:
 
 - Use of the term 'decarbonisation' as a measure is not strictly correct. Instead it broadly refers to the reduction or elimination of greenhouse gas emissions.
@@ -230,14 +231,17 @@ Given my limited knowledge in the domain of vessel engines, I decided it would b
 - The ability to switch between fuel and electric power is a valuable USP for Wärtsilä, as it offers companies potential cost savings. With a Wärtsilä engine, vessels can switch to a more fuel- and cost-efficient power source when idle or waiting to dock.
 
 **No demonstration of data cleansing**
+
 It was noted that the current project did not require any data cleansing or imputation as the data was instead synthetically generated. Therefore a future project could be performed that uses messy data to demonstrated my ability to format data so it can be used for analysis.
 
 _I am fully aware that data cleansing it a large portion of any data analyst's workload_
 
 **Operational Efficiency Analysis**  
+
 Beyond just identifying the lowest performers, it could be beneficial to evaluate operational metrics such as maintenance costs and lifecycle costs for different engine types. This can help articulate the value proposition of Wärtsilä's solutions more effectively. 
 
 **Direct querying data that updates live Vessel Data**
+
 The use of direct querying along with scehdules refreshes (through Power BI) for data that updates in real time such as vessel positions or status may also futher diversify the data and opportunities for analysis. 
 
 # Next Steps 
