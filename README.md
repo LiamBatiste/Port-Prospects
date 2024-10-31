@@ -137,7 +137,7 @@ To visualise these queries, Jupyter Notebooks were chosen as they allow for crea
 The below visualisations were created using both the seaborn and matplotlib libraries:
 
 ![f d hport dvessels](https://github.com/user-attachments/assets/36684e4d-b488-434e-8c58-ad7fdc7959ea)
-The above visual is focus on the 
+The above visual is focused on The decarbonisation and fuel efficiency of different home ports 
 
 
 ![f d hport fvessels](https://github.com/user-attachments/assets/05d1fea9-1216-4e87-b974-4771fac0f495)
