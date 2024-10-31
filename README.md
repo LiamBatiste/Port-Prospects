@@ -78,7 +78,6 @@ These changes were made to enrich the data and allow for a deeper level of analy
 
 It should also be mentioned that the fuel efficiency and decarbonisation efficiency were calculated a product of both the engine builder and engine designation. 
 
-
 # Visuals - Python
 ## Port Segmentation
 ![f d hport dvessels](https://github.com/user-attachments/assets/36684e4d-b488-434e-8c58-ad7fdc7959ea)
