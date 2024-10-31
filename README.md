@@ -165,7 +165,7 @@ The above visual is focused on the destination ports with the oldest average bui
 <br>
 
 ![avg build year dport fvessels](https://github.com/user-attachments/assets/dcf4e9db-4d0e-4b6d-ae7d-f113072c7c26)
-The above visual is focused on the destination ports with the oldest average build year for freighter vessels. This can provide Wärtsilä with leads for the destination ports of **freighter specific vessels** that have a higher likelihood of being outdated and so in need of an upgrade to an engine that more closely aligns with the goal of net zero emissions proposed by the International Maritime Organisation (IMO) by or around 2050. It should also be noted that the ports are further categorised by propulsion types for greater granularity - for this instance there are multiple occurances of both Gas Turbine and Main Engine propulsion types.
+The above visual is focused on the destination ports with the oldest average build year for freighter vessels. This can provide Wärtsilä with leads for the destination ports of **freighter specific vessels** that have a higher likelihood of being outdated and so in need of an upgrade to an engine that more closely aligns with the goal of net zero emissions proposed by the International Maritime Organisation (IMO) by or around 2050. It should also be noted that the ports are further categorised by propulsion types for greater granularity - for this instance there are multiple occurances of the Main Engine propulsion type.
 <br>
 
 ## Engine Segmentation
