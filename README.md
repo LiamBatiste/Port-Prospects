@@ -5,7 +5,7 @@
 
 This approach focuses on leveraging Wärtsilä's unique strengths in propulsion technology, including fuel efficiency and decarbonisation, to identify vessels that would benefit most from these solutions.
 
-The vessel segmentation was selected because both freighter and defense vessel types are consistently highlighted as vessels of interest on their website. This approach also enables a more granular analysis, providing more targeted leads for other Wärtsilä stakeholders to follow up on regarding their efforts and resource allocation. 
+The vessel segmentation was selected because both freighter and defence vessel types are consistently highlighted as vessels of interest on their website. This approach also enables a more granular analysis, providing more targeted leads for other Wärtsilä stakeholders to follow up on regarding their efforts and resource allocation. 
 
 ## Table of Contents
 - [Port Prospects](#port-prospects)
@@ -95,11 +95,11 @@ It should also be mentioned that the fuel efficiency and decarbonisation efficie
 The fact table and dimensions tables (as seen above) were created within SQL, along with their respective relationships. The data was then brought in using the SQL import wizard. 
 
 ## views 
-Views to allow for segmentation of defense vessels and freighter vessels were created as they appear to be key segments of interest for Wärtsilä:
+Views to allow for segmentation of defence vessels and freighter vessels were created as they appear to be key segments of interest for Wärtsilä:
 
 <br>
 
-**Defense Vessel View**
+**defence Vessel View**
 
 ![image](https://github.com/user-attachments/assets/dbe8942c-8400-4ac6-9a1a-cad1809d78bc)
 
@@ -114,32 +114,32 @@ Views to allow for segmentation of defense vessels and freighter vessels were cr
 ## Queries
 The Queries that were chosen were broken up into two key areas: 
 
-**1.) Port Segmentation of defense and freighter vessels**
+**1.) Port Segmentation of defence and freighter vessels**
 
-**2.) Engine Segmenation of defense and freighter vessels**
+**2.) Engine Segmenation of defence and freighter vessels**
 
 The following questions were then proposed to gain insight into key areas of interest such as:
 
 **Port Segmenation:**
 
-- Which home ports are being visited by defense vessels and freighter vessels with the lowest fuel efficiency and decarbonisation efficiency?
-- Which home ports have the oldest average build years for defense and freighter vessels by propulsion type?
-- Which home ports have the lowest average fuel efficiency for defense and freighter vessels for each propulsion type?
-- Which home ports have the lowest average decarbonisation efficiency for defense and freighter vessels for each propulsion type?
-- Which destination ports are being visited by defense and freighter vessels with the lowest fuel efficiency and decarbonisation efficiency?
-- Which destination ports have the oldest average build years for defense and freighter vessels by propulsion type?
-- Which destination ports have the lowest average fuel efficiency for defense and freighter vessels for each propulsion type?
-- Which destination ports have the lowest average decarbonisation efficiency for defense and freighter vessels for each propulsion type?
+- Which home ports are being visited by defence vessels and freighter vessels with the lowest fuel efficiency and decarbonisation efficiency?
+- Which home ports have the oldest average build years for defence and freighter vessels by propulsion type?
+- Which home ports have the lowest average fuel efficiency for defence and freighter vessels for each propulsion type?
+- Which home ports have the lowest average decarbonisation efficiency for defence and freighter vessels for each propulsion type?
+- Which destination ports are being visited by defence and freighter vessels with the lowest fuel efficiency and decarbonisation efficiency?
+- Which destination ports have the oldest average build years for defence and freighter vessels by propulsion type?
+- Which destination ports have the lowest average fuel efficiency for defence and freighter vessels for each propulsion type?
+- Which destination ports have the lowest average decarbonisation efficiency for defence and freighter vessels for each propulsion type?
 
 **Engine Segmentation:**
 
--  Which defense and freighter vessel engines have the lowest average fuel efficiency and decarbonisation efficiency?
--  Which defense and freighter vessel engines have the lowest average maximum continous output per tonnage?
--  What are the top 5 defense and freighter vessel engines that may have been in service for longest?
--  Which propulsion types have the lowest average fuel efficiency for defense and freighter vessels?
--  Which propulsion types have the lowest average decarbonisation efficiency for defense and freighter vessels?
--  Which propulsion types are most commonly found across different countries for defense and freighter vessels?
--  Which propulsion types have the lowest average fuel and decarbonisation efficiency for defense and freighter vessels?
+-  Which defence and freighter vessel engines have the lowest average fuel efficiency and decarbonisation efficiency?
+-  Which defence and freighter vessel engines have the lowest average maximum continous output per tonnage?
+-  What are the top 5 defence and freighter vessel engines that may have been in service for longest?
+-  Which propulsion types have the lowest average fuel efficiency for defence and freighter vessels?
+-  Which propulsion types have the lowest average decarbonisation efficiency for defence and freighter vessels?
+-  Which propulsion types are most commonly found across different countries for defence and freighter vessels?
+-  Which propulsion types have the lowest average fuel and decarbonisation efficiency for defence and freighter vessels?
 
 # Visuals - Python
 ## Port Segmentation
@@ -149,7 +149,7 @@ To visualise these queries, Jupyter Notebooks were chosen as they allow for crea
 The below visualisations were created using both the seaborn and matplotlib libraries:
 
 ![f d hport dvessels](https://github.com/user-attachments/assets/36684e4d-b488-434e-8c58-ad7fdc7959ea)
-The depicted chart is focused on the home ports with the lowest average decarbonisation and fuel efficiency for defense vessels. This can provide Wärtsilä with leads for the home ports of **defense specific vessels** that are likely to have engines with lower decarbonisation and fuel efficiency potential when compared with that of Wärtsilä engine averages.  
+The depicted chart is focused on the home ports with the lowest average decarbonisation and fuel efficiency for defence vessels. This can provide Wärtsilä with leads for the home ports of **defence specific vessels** that are likely to have engines with lower decarbonisation and fuel efficiency potential when compared with that of Wärtsilä engine averages.  
 <br></br>
 
 ![f d hport fvessels](https://github.com/user-attachments/assets/05d1fea9-1216-4e87-b974-4771fac0f495)
@@ -157,7 +157,7 @@ The depicted chart is focused on the home ports with the lowest average decarbon
 <br></br>
 
 ![avg build year hport dvessels](https://github.com/user-attachments/assets/e645d47e-5332-4fdb-8227-02d3a2a7c4e5)
-The displayed graphic is focused on the home ports with the oldest average build year for defense vessels. This can provide Wärtsilä with leads for the home ports of **defense specific vessels** that have a higher likelihood of being outdated and so in need of an upgrade to an engine that more closely aligns with the goal of net zero emissions proposed by the International Maritime Organisation (IMO) by or around 2050. It should also be noted that the ports are further categorised by propulsion types for greater granularity - for this instance there are multiple occurances of both Gas Turbine and Motor propulsion types.
+The displayed graphic is focused on the home ports with the oldest average build year for defence vessels. This can provide Wärtsilä with leads for the home ports of **defence specific vessels** that have a higher likelihood of being outdated and so in need of an upgrade to an engine that more closely aligns with the goal of net zero emissions proposed by the International Maritime Organisation (IMO) by or around 2050. It should also be noted that the ports are further categorised by propulsion types for greater granularity - for this instance there are multiple occurances of both Gas Turbine and Motor propulsion types.
 <br></br>
 
 ![avg build year hport fvessels](https://github.com/user-attachments/assets/7983a0de-1538-4968-a58a-9399870e4aca)
@@ -165,7 +165,7 @@ The displayed graphic is focused on the home ports with the oldest average build
 <br></br>
 
 ![f d dport dvessels](https://github.com/user-attachments/assets/9685ad96-c933-42f4-83dd-5ae54119e07a)
-The above visual is focused on the destination ports with the lowest average decarbonisation and fuel efficiency for defense vessels. This can provide Wärtsilä with leads for the destination ports of **defense specific vessels** that are likely to have engines with lower decarbonisation and fuel efficiency potential when compared with that of Wärtsilä engine averages. 
+The above visual is focused on the destination ports with the lowest average decarbonisation and fuel efficiency for defence vessels. This can provide Wärtsilä with leads for the destination ports of **defence specific vessels** that are likely to have engines with lower decarbonisation and fuel efficiency potential when compared with that of Wärtsilä engine averages. 
 <br></br>
 
 ![f d dport fvessels](https://github.com/user-attachments/assets/7b58a423-4bc2-42df-b7f0-9c04e121da04)
@@ -173,7 +173,7 @@ The above visual is focused on the destination ports with the lowest average dec
 <br></br>
 
 ![avg build year dport dvessels](https://github.com/user-attachments/assets/d6866c2e-6008-40ba-b836-741d88de9e71)
-The illustration above is focused on the destination ports with the oldest average build year for defense vessels. This can provide Wärtsilä with leads for the destination ports of **defense specific vessels** that have a higher likelihood of being outdated and so in need of an upgrade to an engine that more closely aligns with the goal of net zero emissions proposed by the International Maritime Organisation (IMO) by or around 2050. It should also be noted that the ports are further categorised by propulsion types for greater granularity - for this instance there are multiple occurances of both Gas Turbine and Main Engine propulsion types.
+The illustration above is focused on the destination ports with the oldest average build year for defence vessels. This can provide Wärtsilä with leads for the destination ports of **defence specific vessels** that have a higher likelihood of being outdated and so in need of an upgrade to an engine that more closely aligns with the goal of net zero emissions proposed by the International Maritime Organisation (IMO) by or around 2050. It should also be noted that the ports are further categorised by propulsion types for greater granularity - for this instance there are multiple occurances of both Gas Turbine and Main Engine propulsion types.
 <br></br>
 
 ![avg build year dport fvessels](https://github.com/user-attachments/assets/dcf4e9db-4d0e-4b6d-ae7d-f113072c7c26)
@@ -182,7 +182,7 @@ The illustration above is focused on the destination ports with the oldest avera
 
 ## Engine Segmentation
 ![dvessel avg mco tonnage below wartsila](https://github.com/user-attachments/assets/e7020c70-4cda-4921-8503-d7b2462e6b2b)
-The visual above highlights defense vessels equipped with engines that have a maximum continuous output lower than that of Wärtsilä engines. This can be valuable for identifying both the specific engine designations and engine builders that fall on the lower end of this performance metric, thereby presenting potential sales opportunities for Wärtsilä’s engines. It can be observed that the Caterpillar and MTU engines might be of interest to pursue.
+The visual above highlights defence vessels equipped with engines that have a maximum continuous output lower than that of Wärtsilä engines. This can be valuable for identifying both the specific engine designations and engine builders that fall on the lower end of this performance metric, thereby presenting potential sales opportunities for Wärtsilä’s engines. It can be observed that the Caterpillar and MTU engines might be of interest to pursue.
 
 _It should be noted that the names and engine builder are very unrealistic of a real world data set_
 <br></br>
@@ -194,7 +194,7 @@ _It should be noted that the names and engine builder are very unrealistic of a 
 <br></br>
 
 ![dvessel engines possible longest service](https://github.com/user-attachments/assets/331005fa-0e12-4974-b6b1-434200bd291f)
-The current graphic provides insight into the engine designations of defense vessels that have potentially been in service for the longest duration. When also coupled with the engine builder, this information could provide future business prospects for Wärtsilä. 
+The current graphic provides insight into the engine designations of defence vessels that have potentially been in service for the longest duration. When also coupled with the engine builder, this information could provide future business prospects for Wärtsilä. 
 <br></br>
 
 ![fvessel engines possible longest service](https://github.com/user-attachments/assets/933ae10e-90b7-44a4-a76a-456ed2dfcc99)
@@ -202,7 +202,7 @@ The current graphic provides insight into the engine designations of freighter v
 <br></br>
 
 ![dvessel prop type avg f d](https://github.com/user-attachments/assets/06c91f83-6e1a-41e0-9778-2fd94e1dbd61)
-The preceding graphic displays the different defense vessel propulsion type average fuel and decarbonisation efficiency, compared with that of Wärtsilä engines. Allowing for this comparison could provide insight into the propulsion types that most 'underperform' to further tighten focuses for engine sales based on propulsion type - in this case Gas Turbine propulsion types.
+The preceding graphic displays the different defence vessel propulsion type average fuel and decarbonisation efficiency, compared with that of Wärtsilä engines. Allowing for this comparison could provide insight into the propulsion types that most 'underperform' to further tighten focuses for engine sales based on propulsion type - in this case Gas Turbine propulsion types.
 <br></br>
 
 ![fvessel prop type avg f d](https://github.com/user-attachments/assets/8f8eb008-78d8-47bf-aa03-63fc6906d696)
@@ -211,12 +211,12 @@ The preceding graphic displays the different freighter vessel propulsion type av
 
 ![prop type percentage by country for dvessels](https://github.com/user-attachments/assets/a29541bc-b36a-4817-85b2-8798e01ecce6)
 
-The matrix above shows the percentage distribution of propulsion types across different countries for defense vessels. This insight could help identify which propulsion types should be prioritised for upselling engines in each country.
+The matrix above shows the percentage distribution of propulsion types across different countries for defence vessels. This insight could help identify which propulsion types should be prioritised for upselling engines in each country.
 <br></br>
 
 ![prop type percentage by country for fvessels](https://github.com/user-attachments/assets/aa81afd6-47aa-44d1-bd5e-ee7138520253)
 
-The matrix above shows the percentage distribution of propulsion types across different countries for defense vessels. This insight could help identify which propulsion types should be prioritised for upselling engines in each country.
+The matrix above shows the percentage distribution of propulsion types across different countries for defence vessels. This insight could help identify which propulsion types should be prioritised for upselling engines in each country.
 <br></br>
 
 # Project Areas for Potential Enhancement:
