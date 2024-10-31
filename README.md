@@ -106,6 +106,9 @@ The Queries that were chosen were broken up into two key areas:
 
 **2.) Engine Segmenation of defense and freighter vessels**
 
+The following questions were then proposed to gain insight into key areas of interest such as:
+
+
 
 # Visuals - Python
 ## Port Segmentation
