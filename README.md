@@ -13,8 +13,6 @@ The vessel segmentation was selected because both freighter and defense vessel t
 - [Data Acquisition](#data-acquisition)
 - [Data Normalisation and Schema](#data-normalisation-and-schema)
 - [SQL Insights](#sql-insights)
-- [Views](#views)
-- [Queries](#queries)
 - [Visuals - Python](#visuals---python)
 - [Project Areas for Potential Enhancement](#project-areas-for-potential-enhancement)
 - [Next Steps](#next-steps)
