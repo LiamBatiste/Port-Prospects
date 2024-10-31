@@ -138,7 +138,7 @@ The below visualisations were created using both the seaborn and matplotlib libr
 
 ![f d hport dvessels](https://github.com/user-attachments/assets/36684e4d-b488-434e-8c58-ad7fdc7959ea)
 The above visual is focused on the homeports with the lowest average decarbonisation and fuel efficiency. This can provide Wärtsilä with leads for the home ports of vessels that are likely to have engines with lower decarbonisation and fuel efficiency potential when compared with that of Wärtsilä engine averages.  
-
+<br>
 
 ![f d hport fvessels](https://github.com/user-attachments/assets/05d1fea9-1216-4e87-b974-4771fac0f495)
 
