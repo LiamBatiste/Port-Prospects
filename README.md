@@ -127,7 +127,22 @@ The following questions were then proposed to gain insight into key areas of int
 - Which destination ports have the lowest average decarbonisation efficiency for defense vessels for each propulsion type?
 - Which destination ports have the lowest average decarbonisation efficiency for freighter vessels for each propulsion type?
 
+**Engine Segmentation:**
 
+-  Which defense vessel engines have the lowest average fuel efficiency and decarbonisation efficiency?
+-  Which freighter vessel engines have the lowest average fuel efficiency and decarbonisation efficiency?
+-  Which defense vessel engines have average mco_per_tonnage lower than that of Wartsilas engine averages?
+-  Which freighter vessel engines have average mco_per_tonnage lower than that of Wartsilas engine averages?
+-  What are the top 5 defense vessel engines that may have been in service for longest?
+-  What are the top 5 freighter vessel engines that may have been in service for longest?
+-  Which propulsion types have the lowest average fuel efficiency for defense vessels?
+-  Which propulsion types have the lowest average fuel efficiency for freighter vessels?
+-  Which propulsion types have the lowest average decarbonisation efficiency for defense vessels?
+-  Which propulsion types have the lowest average decarbonisation efficiency for freighter vessels?
+-  Which propulsion types are most commonly found across different countries for defense vessels?
+-  Which propulsion types are most commonly found across different countries for freight vessels?
+-  Which propulsion types have the lowest average fuel and decarbonisation efficiency for defense vessels?
+-  Which propulsion types have the lowest average fuel and decarbonisation efficiency for freighter vessels?
 
 # Visuals - Python
 ## Port Segmentation
