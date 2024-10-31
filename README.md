@@ -170,7 +170,7 @@ The above visual is focused on the destination ports with the oldest average bui
 
 ## Engine Segmentation
 ![dvessel avg mco tonnage below wartsila](https://github.com/user-attachments/assets/e7020c70-4cda-4921-8503-d7b2462e6b2b)
-The visual above highlights defense vessels equipped with engines that have a maximum continuous output lower than that of Wärtsilä engines. This can be valuable for identifying both the specific engine designations and engine builders that fall on the lower end of this performance metric, thereby presenting potential sales opportunities for Wärtsilä’s engines.
+The visual above highlights defense vessels equipped with engines that have a maximum continuous output lower than that of Wärtsilä engines. This can be valuable for identifying both the specific engine designations and engine builders that fall on the lower end of this performance metric, thereby presenting potential sales opportunities for Wärtsilä’s engines. It can be observed that 
 <br></br>
 
 ![fvessel avg mco tonnage below wartsila](https://github.com/user-attachments/assets/c4e70fe1-4d69-4183-98a2-d234520cd24d)
