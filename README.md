@@ -198,9 +198,10 @@ The above visual displays the different freighter vessel propulsion type average
 <br></br>
 
 ![prop type percentage by country for dvessels](https://github.com/user-attachments/assets/a29541bc-b36a-4817-85b2-8798e01ecce6)
-
+The matrix above shows the percentage distribution of propulsion types across different countries for defense vessels. This insight could help identify which propulsion types should be prioritised for upselling engines in each country.
 
 ![prop type percentage by country for fvessels](https://github.com/user-attachments/assets/aa81afd6-47aa-44d1-bd5e-ee7138520253)
+The matrix above shows the percentage distribution of propulsion types across different countries for defense vessels. This insight could help identify which propulsion types should be prioritised for upselling engines in each country.
 
 ### Areas for Potential Enhancement:
 
