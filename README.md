@@ -207,21 +207,26 @@ The matrix above shows the percentage distribution of propulsion types across di
 The matrix above shows the percentage distribution of propulsion types across different countries for defense vessels. This insight could help identify which propulsion types should be prioritised for upselling engines in each country.
 <br></br>
 
-## Areas for Potential Enhancement:
+## Project Areas for Potential Enhancement:
 
-**Operational Efficiency Analysis:**  
-Beyond just identifying the lowest performers, it could be beneficial to evaluate operational metrics such as fuel efficiency, maintenance costs, and lifecycle costs for different engine types. This can help articulate the value proposition of Wärtsilä's solutions more effectively.
+**Enriching 'Decarbonisation' measures** 
+Given my limited knowledge in the domain of vessel engines, I decided it would be worth while to consult with an **Environmental Expert (Director of Millpool Environmental Consulting Ltd)** on how to better enrich/improve the accuracy of my data, particularly with respect to how I could better measure 'decarbonisation'. From this conversation, the key take aways were as follows:
 
-**Competitor Analysis:**  
-While my focus was on identifying opportunities for Wärtsilä, understanding the competitive landscape—who the main competitors are in these segments and what they offer—could provide valuable context towards these findings.
+- Use of the term 'decarbonisation' as a measure is not strictly correct. Instead it broadly refers to the reduction or elimination of greenhouse gas emissions.
+- The majority of said green house emissions are created by standard diesel engines.
+- It would be more useful and correct to measure the vessels produced particulates by their carbon emissions per kilowatt-hour.
+- The ability to switch between fuel and electric power is a valuable USP for Wärtsilä, as it offers companies potential cost savings. With a Wärtsilä engine, vessels can switch to a more fuel- and cost-efficient power source when idle or waiting to dock.
 
-**Customer Segmentation:**  
-Analysing potential customers based on the identified vessel data (e.g., government contracts, shipping companies) could refine the marketing strategies and allow for a greater focus on specific target markets.
+**No demonstration of data cleansing**
+It was noted that the current project did not require any data cleansing or imputation as the data was instead synthetically generated. Therefore a future project could be performed that uses messy data to demonstrated my ability to format data so it can be used for analysis.
 
-**Integration of External Data:**  
-If feasible, I should consider integrating external datasets, such as industry reports or economic indicators, to enrich your analysis and support your findings.
+_I am fully aware that data cleansing it a large portion of any data analyst's workload_
+
+**Operational Efficiency Analysis**  
+Beyond just identifying the lowest performers, it could be beneficial to evaluate operational metrics such as maintenance costs and lifecycle costs for different engine types. This can help articulate the value proposition of Wärtsilä's solutions more effectively. 
 
 **Direct querying data that updates live Vessel Data**
-The use of direct querying along with scehdules refreshes for data that updates in real time such as vessel positions or status may also futher enrich the data and oppotunities for analysis.
+The use of direct querying along with scehdules refreshes (through Power BI) for data that updates in real time such as vessel positions or status may also futher diversify the data and opportunities for analysis. 
 
-... environ consultation with expert to better gage 'decarbonisation' as the term alone is very fluffy. Additionally how I need to create power BI as part of next steps for continuous data ingestion as part of a scheduled refresh (particularly for API) and for high level analysis of less technical stakeholders...
+## Next Steps 
+Following this analysis, to maximise impact, it would be beneficial to create a high-level dashboard that less technical stakeholders can interact with dynamically. This would allow them to quickly and easily gain insights into potential future sales leads.
