@@ -236,6 +236,15 @@ It was noted that the current project did not require any data cleansing or impu
 
 _I am fully aware that data cleansing it a large portion of any data analyst's workload_
 
+The common framework which I follow with messy data sets involves the following:
+- **Grain** - what does each record represent?
+- **Measures** - which data is qualitative or qunatitative?
+- **Data types** - are the data types consistent across the dataset?
+- **Column definitions** - what does each columns represent?
+- **Consistency**- are spelling and delimiters consistent across the data set?
+- **Duplicates** - are records that should be uniquely identified duplicated?
+- **Null/missing values** - how important is the column and what percentage of the columns are missing? (may require impution) 
+
 **Operational Efficiency Analysis**  
 
 Beyond just identifying the lowest performers, it could be beneficial to evaluate operational metrics such as maintenance costs and lifecycle costs for different engine types. This can help articulate the value proposition of Wärtsilä's solutions more effectively. 
